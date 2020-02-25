@@ -1,2 +1,8 @@
 # Basic
-Basic information for job
+
+一些关于算法工程师求职的资料。
+
+主要包括机器学习、深度学习、自然语言处理方面的知识点。
+
+建议使用 Typora 打开。
+
